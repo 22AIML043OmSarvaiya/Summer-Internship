@@ -3,7 +3,7 @@ May 13th 2024
 
 ## Introduction
 
-I have done my intenship at Mamo Technolabs as a Python Developer. My internship focuses on enhancing my Python programming skills through hands-on projects and real-world applications. At Mamo Technolabs, I collaborate on innovative software solutions, gaining experience in web development, data analysis, and automation. This opportunity allows me to learn industry best practices and contribute to impactful projects.
+I have done my intenship at Mamo Technolabs in AIML field as a Python Developer. My internship focuses on enhancing my Python programming skills through hands-on projects and real-world applications. At Mamo Technolabs, I collaborate on innovative software solutions, gaining experience in web development, data analysis, and automation. This opportunity allows me to learn industry best practices and contribute to impactful projects.
 
 ## Responsibility
 
@@ -34,7 +34,7 @@ Data Storage and Management:
 - Cross-check the extracted data with source information to ensure accuracy.
 - Use validation techniques to clean and standardize the data, removing duplicates and inconsistencies.
 
-<img src="https://github.com/22AIML038RishiPatel/summerinternship2024_22AIMl038/assets/120238486/e0185a8a-c373-439c-a828-39d8a529294a" width="500" height="300" alt="Internship" />
+<img src="https://github.com/22AIML043OmSarvaiya/Summer-Internship/assets/120238186/b4f78e47-3aae-4f7a-bf85-e3d4a8b04aeb" width="500" height="300" alt="Internship" />
 
   ## Week 3: May 27th - Jaun 1st
    - A detailed Google search query was executed to find email addresses of individuals with roles such as CEO, CFO, and HR, specifically in the cyber security field and located in Boston. The search targeted 
@@ -45,7 +45,6 @@ Data Storage and Management:
    - The extracted email addresses were displayed in a sidebar, with options to copy and export the data in various formats (TXT, CSV), facilitating easy integration into further data analysis or outreach 
     activities.
 
-   <img src="https://github.com/22AIML038RishiPatel/summerinternship2024_22AIMl038/assets/120238486/59ab2b96-924b-4202-8135-f9e9906fe1a8" width="500" height="300" />
 
  ## Week 4: June 3rd - June 8th
    - The code sets up a connection to a PostgreSQL database using credentials stored in environment variables. These variables are loaded using the dotenv library, ensuring secure handling of sensitive 
